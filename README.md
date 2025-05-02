@@ -1,2 +1,2 @@
 # AI
-AI course assigmnmnets
+This repository was created for AI course assigmnmnets
